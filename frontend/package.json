@@ -1,0 +1,36 @@
+{
+  "name": "performance-bus",
+  "version": "1.0.0",
+  "description": "Performance Bus",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "PI 3",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "axios": "^0.24.0",
+    "react": "^16.8.6",
+    "react-accessible-dropdown-menu-hook": "^3.1.0",
+    "react-bootstrap-dropdown-menu": "^1.1.23",
+    "react-dom": "^16.8.6",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^2.1.5",
+    "react-select": "^5.2.1",
+    "react-vis": "^1.11.7",
+    "theme": "^0.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
